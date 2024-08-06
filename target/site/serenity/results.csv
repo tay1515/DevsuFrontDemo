@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Login","Inicio de sesion.","ERROR","2024-08-04T13:40:13.9679966-05:00[America/Bogota]","0.0","0.23"
+"Login","Inicio de sesion.","SUCCESS","2024-08-05T22:22:22.5346175-05:00[America/Bogota]","0.0","4.63"
+"Login","Inicio de sesion.","SUCCESS","2024-08-05T22:58:24.2284257-05:00[America/Bogota]","0.0","4.48"
+"Carrito de compras","Carrito de compras","SUCCESS","2024-08-06T09:47:39.1225906-05:00[America/Bogota]","0.0","8.41"

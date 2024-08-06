@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="starter.runners.ShoppingCartRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="TAY" time="0.0">
+  <properties/>
+  <system-out><![CDATA[09:47:38.610 [Test worker] DEBUG io.cucumber.core.plugin.SerenityReporter -- Running feature from file:///C:/Automatizacion/Proyectos_backend/Devsu_test/DevsuFrontDemo/src/test/resources/features/ShoppingCart.feature
+09:47:38.705 [Test worker] INFO  -- 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at https://serenity-bdd.info                                     
+ Documentation at https://serenity-bdd.github.io                                     
+ Test Automation Training and Coaching: https://www.serenity-dojo.com                
+ Commercial Support: https://www.serenity-dojo.com/serenity-bdd-enterprise-support   
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+-------------------------------------------------------------------------------------
+
+09:47:38.715 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus -- Test suite started for story net.thucydides.model.domain.Story@77881900
+09:47:38.722 [Test worker] INFO  -- Test Suite Started: Carrito de compras
+09:47:38.826 [Test worker] DEBUG io.cucumber.core.plugin.SerenityReporter -- Running feature from file:///C:/Automatizacion/Proyectos_backend/Devsu_test/DevsuFrontDemo/src/test/resources/features/ShoppingCart.feature
+09:47:38.833 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus -- Test suite started for story net.thucydides.model.domain.Story@77881900
+09:47:38.834 [Test worker] INFO  -- Test Suite Started: Carrito de compras
+09:48:25.656 [Test worker] DEBUG net.thucydides.model.reports.ReportService -- Reporting formats: [JSON]
+09:48:25.665 [Test worker] DEBUG net.thucydides.model.reports.ReportService -- Reporting formats: [JSON]
+09:48:25.680 [Test worker] DEBUG net.thucydides.model.reports.ReportService -- Generating reports for 1 test outcomes using: net.thucydides.model.reports.json.JSONTestOutcomeReporter@2be50bba
+09:48:25.681 [pool-3-thread-1] DEBUG net.thucydides.model.reports.ReportService -- Processing test outcome Carrito de compras:Carrito de compras
+09:48:25.682 [pool-3-thread-1] DEBUG net.thucydides.model.reports.ReportService -- net.thucydides.model.reports.json.JSONTestOutcomeReporter@2be50bba: Generating report for test outcome: Carrito de compras:Carrito de compras
+09:48:25.686 [pool-3-thread-1] DEBUG net.thucydides.model.reports.json.JSONTestOutcomeReporter -- Generating JSON report for Carrito de compras to file C:\Automatizacion\Proyectos_backend\Devsu_test\DevsuFrontDemo\target\site\serenity\d18fa4c0d8ea0b09c25ea8bc189902670a644903c02cbd3a35168988149cf8c7.json)
+09:48:25.730 [pool-3-thread-1] DEBUG net.thucydides.model.reports.ReportService -- Processing test outcome Carrito de compras:Carrito de compras done
+09:48:25.730 [Test worker] DEBUG net.thucydides.model.reports.ReportService -- Shutting down executor service
+09:48:25.731 [Test worker] DEBUG net.thucydides.model.reports.ReportService -- Reports generated in: 50 ms
+09:48:25.867 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom -- Closing darkroom
+09:48:25.868 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine -- Darkroom processing line shutting down
+09:48:25.872 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom -- Closing darkroom
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

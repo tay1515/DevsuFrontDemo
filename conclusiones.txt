@@ -1,0 +1,16 @@
+*** Contruccion de caso de prueba ***
+
+Pagina: https://www.saucedemo.com/
+1. El caso de prueba tiene la capacidad de iniciar sesion
+2. El caso de prueba permite ingresar la cantidad de productos a agregar al carrito, esta seleccion es aleatoria, el sistema
+   detecta el id del producto este toma su nombre, descripcion y precio y lo agrega al carrito
+3. El sistema valida que la cantidad de produtos ingresados no supere la cantidad de productos contenidos en la pagina
+4. El sistema valida el icono del carrito de compras que si contenga la cantidad de productos selecionados en el item anterior,
+5. El sistema confronta la informacion tomada de cada producto al momento de la compra contra la informacion contenida en el item del carrito de compras.
+6. El caso de pruebas permite ingresa la informacion del cliente.
+7. El sistema valida el total de los productos seleccionados contra el total presentado en el carrito de compras
+8. El sistema valida que el mensaje "Thank you for your order!" se presente en pantalla.
+
+*** Observaciones ***
+1. La pagina en ocaciones presenta inestabilidad
+2. Se realizaron validaciones extras para ambientar mejor el caso de prueba y aumentar la cobertura de pruebas.

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Login" skipped="0" tests="1" time="0.23" timestamp="2024-08-04 01:40:13"><testcase name="Inicio de sesion."><error message="No stage available - it looks like you haven't called the setTheStage() method before calling this one." type="net.serenitybdd.screenplay.actors.NoStageException">No stage available - it looks like you haven't called the setTheStage() method before calling this one.</error><system-err>No stage available - it looks like you haven't called the setTheStage() method before calling this one.&#13;
+starter.stepdefinitions.ShoppingCartStep.InicioEnLaPagina(LoginStep.java:19)&#13;
+✽.Inicio en la pagina(file:///C:/Automatizacion/Proyectos_backend/Devsu_Front_Demo/src/test/resources/features/Login.feature:5)&#13;
+</system-err></testcase></testsuite>
